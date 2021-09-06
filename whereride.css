@@ -1,0 +1,185 @@
+.box1{
+    width: 100%;
+    max-width: 1920px;
+    height: 1393px;
+}
+.header {
+    /* position: fixed; */
+    display: flex;
+    width: 1920px;
+    height: 80px;
+    background: white;
+    justify-content: center;
+
+}
+
+.bike-park {
+    padding: 30px 0px 37px 37px;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    padding: 30px 37px 37px 30px ;
+    list-style-type: none;
+}
+
+li:hover {
+   color: #297FFF;
+}
+
+.personal-account {
+    padding: 34px 20px 20px 50px
+}
+
+.feedback {
+    padding: 34px 40px 20px 20px;
+}
+
+.feedback-btn {
+    width: 200px;
+    height: 40px;
+    background: #297FFF;
+    border-radius: 10px;
+    border: none;
+}
+
+.feedback-text {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 17px;
+    text-align: center;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+}
+
+.time {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 121.4%;
+    letter-spacing: 0.1em;
+    color: #14233D;
+}
+
+.container2{
+    background: #F2F4F7;
+    width: 1240px;
+    height: 800px;
+    margin: 40px 340px;
+    border-radius: 20px;
+}
+.damage1{
+   width: 600px; 
+   margin-left: 40px;
+   padding-top: 40px;
+}
+.damage h2{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 120%;
+    color: #14233D;
+    
+}
+.damage h4{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 22px;
+    color: #14233D;
+}
+.damage1 p{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+    color: #14233D;
+}
+.buldingphoto img{
+   margin-top: 24px;
+    border-radius: 20px;
+    width: 360px;
+    height: 262px;
+    padding-left: 40px;
+
+}
+.container3{
+    background: #F2F4F7;
+    width: 1240px;
+    height: 800px;
+    margin: 40px 340px;
+    border-radius: 20px;
+}
+.damage2{
+   width: 320px; 
+   display: -webkit-box;
+}
+.damage2 h4{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 22px;
+color: #14233D;
+
+}
+.damagetext{
+    width: 560px;
+    height: 275px;
+    padding: 66px 40px;
+}
+.damagetext p{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+color: #14233D;
+}
+.ridephoto img{
+    width: 559px;
+    height: 262px;
+    border-radius: 20px;
+    padding-top: 120px;
+}
+.damge3 h4{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 22px;
+color: #14233D;
+    padding-left: 40px;
+    padding-bottom: 36px;
+}
+
+.ridephoto1 p{
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+color: #14233D;
+padding-left: 40px;
+}
+
+.ridephoto1 {
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+    width: 269px;
+    height: 200px;
+}
+
+.ridephoto1 img{
+    padding-left: 40px;
+}
